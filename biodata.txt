@@ -1,0 +1,4 @@
+Nama = Wiradarma Nurmagika Bagaskara
+Alamat = Jl. Kebon Jeruk, Kab. Kuningan
+Telp = 0812-323232
+Email = wiradarma@gmail.com
